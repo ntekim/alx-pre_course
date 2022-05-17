@@ -1,1 +1,1 @@
-First directory
+Updating README.md file of root directory
