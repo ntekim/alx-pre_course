@@ -1,1 +1,1 @@
-Updateing readme to enable me complete my updating local repository exercise.
+Updating readme to enable me complete my updating local repository exercise.
